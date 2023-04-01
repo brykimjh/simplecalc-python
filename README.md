@@ -15,7 +15,7 @@ pip install numpy
 To use SimpleCalc, import the module and call the relevant function:
 
 ```
-import simplecalc
+import simplecalc_brykim
 
 result = simplecalc.add_numbers(1, 2)
 print(result)
